@@ -1,0 +1,297 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "a-im",
+      "IncludeInScript": true
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/svg+xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "MaxUsedConnections": 10,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Jun-01-2018",
+    "RecordingDuration": 61563,
+    "RecordingTimeStamp": 1527842628,
+    "TotalBytesReceived": 231863,
+    "TotalBytesSent": 5694,
+    "TotalRequests": 14
+  },
+  "HostInfo": [
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.197.67",
+          "IncludeInScript": true,
+          "Name": "ssl.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 16,
+              "EventId": 258,
+              "HttpStatus": 200,
+              "Size": 333,
+              "URL": "https://ssl.gstatic.com/m/images/weather/wind_unselected.svg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 256,
+              "HttpStatus": 200,
+              "Size": 563,
+              "URL": "https://ssl.gstatic.com/onebox/weather/48/partly_cloudy.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 253,
+              "HttpStatus": 200,
+              "Size": 717,
+              "URL": "https://ssl.gstatic.com/onebox/weather/48/thunderstorms.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 250,
+              "HttpStatus": 200,
+              "Size": 584,
+              "URL": "https://ssl.gstatic.com/onebox/weather/48/rain_s_cloudy.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 246,
+              "HttpStatus": 200,
+              "Size": 446,
+              "URL": "https://ssl.gstatic.com/onebox/weather/64/fog.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 78,
+              "EventId": 201,
+              "HttpStatus": 200,
+              "Size": 24211,
+              "URL": "https://ssl.gstatic.com/gb/images/i2_2ec824b0.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 78,
+              "EventId": 105,
+              "HttpStatus": 200,
+              "Size": 69547,
+              "URL": "https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 94,
+              "EventId": 89,
+              "HttpStatus": 200,
+              "Size": 69547,
+              "URL": "https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.160.10",
+          "IncludeInScript": true,
+          "Name": "translate.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 75,
+              "HttpStatus": 200,
+              "Size": 880,
+              "URL": "https://translate.googleapis.com/translate_a/l?client=chrome&hl=en&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.160.3",
+          "IncludeInScript": true,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 328,
+              "EventId": 79,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=66"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.197.68",
+          "IncludeInScript": true,
+          "Name": "www.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "text/html",
+              "DownloadTime": 141,
+              "EventId": 125,
+              "HttpStatus": 200,
+              "Size": 64990,
+              "URL": "https://www.google.com/"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.160.35",
+          "IncludeInScript": true,
+          "Name": "id.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 78,
+              "EventId": 276,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://id.google.com/verify/ABGYjaaWjSFouGBGZICKXfNkvF1nsiyL7BXWUucE8cxeZmJusOj5-9TgV_cvdy5Q_ZFXT65BvuXKrVVdr2wcPVYtySWjCtMBdyqE9AV89uxlNDYj9Tlg64JVyQqQ"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "74.125.24.157",
+          "IncludeInScript": true,
+          "Name": "adservice.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 141,
+              "EventId": 225,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://adservice.google.com/adsid/google/ui"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.197.77",
+          "IncludeInScript": true,
+          "Name": "accounts.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 141,
+              "EventId": 72,
+              "HttpStatus": 200,
+              "Size": 45,
+              "URL": "https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumAccountReconcilor,counter:0,load_time_ms:3051&json=standard"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

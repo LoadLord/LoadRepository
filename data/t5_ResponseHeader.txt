@@ -1,0 +1,12 @@
+HTTP/1.1 204 No Content
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657 for more info."
+Timing-Allow-Origin: *
+Cache-Control: private, max-age=15
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Fri, 01 Jun 2018 08:44:27 GMT
+Server: cafe
+Content-Length: 0
+X-XSS-Protection: 1; mode=block
+Alt-Svc: quic="googleads.g.doubleclick.net:443"; ma=2592000; v="43,42,41,39,35",quic=":443"; ma=2592000; v="43,42,41,39,35"
+

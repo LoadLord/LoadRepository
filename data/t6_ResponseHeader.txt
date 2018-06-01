@@ -1,0 +1,15 @@
+HTTP/1.1 204 No Content
+Date: Fri, 01 Jun 2018 08:44:58 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Type: text/html
+Server: scaffolding on HTTPServer2
+Content-Length: 0
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: SNID=ALx0astgGmGms6KP74rQoQbbhG6jJDnzSNgHwA2LmwfjsLJtUy4L1xoY8hHDtqh8WWe2OeIgeOjtNx81JUWZZg; expires=Wed, 28-Nov-2018 08:44:58 GMT; path=/verify; domain=.google.com; Secure; HttpOnly
+Set-Cookie: NID=131=OBLIl2SpnnwmtAALNgLECmXESe1m4XirPzCA3Msd1ZEIzuSvNxjL5o98xKiUmGy6yBcXUNv8RIDolr5CQc0RurFKqSLzAv1aI50sOmJtPWmuBbvtdShpYG-B8FteD3B0WW2RmJ8; expires=Wed, 28-Nov-2018 08:44:58 GMT; path=/; domain=.google.com; HttpOnly
+Alt-Svc: quic=":443"; ma=2592000; v="43,42,41,39,35"
+

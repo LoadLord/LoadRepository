@@ -3,9 +3,44 @@ Action()
 
 	web_set_sockets_option("SSL_VERSION", "2&3");
 
-//	web_add_cookie("NID=131=ap6eGQ7aOgJgzDA8TRINytbqYUMCWg2HrUo1jL8bY7GVNwTyvdRcbGmEQqPZ0hLspcOrMa8OkPl9riYrMbyxZMtPCW7fjE0_2IKr-1t8OOuKmFi1PwtzON7zuQvPi9H-; DOMAIN=accounts.google.com");
+	web_add_cookie("NID=131=ap6eGQ7aOgJgzDA8TRINytbqYUMCWg2HrUo1jL8bY7GVNwTyvdRcbGmEQqPZ0hLspcOrMa8OkPl9riYrMbyxZMtPCW7fjE0_2IKr-1t8OOuKmFi1PwtzON7zuQvPi9H-; DOMAIN=accounts.google.com");
 
-	
+	web_add_header("Origin", 
+		"https://www.google.com");
+
+	web_custom_request("ListAccounts", 
+		"URL=https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumAccountReconcilor,counter:0,load_time_ms:3051&json=standard", 
+		"Method=POST", 
+		"Resource=0", 
+		"RecContentType=application/json", 
+		"Referer=", 
+		"Snapshot=t1.inf", 
+		"Mode=HTML", 
+		"Body= ", 
+		LAST);
+
+	web_url("l", 
+		"URL=https://translate.googleapis.com/translate_a/l?client=chrome&hl=en&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw", 
+		"Resource=0", 
+		"RecContentType=application/json", 
+		"Referer=", 
+		"Snapshot=t2.inf", 
+		"Mode=HTML", 
+		LAST);
+
+	web_add_header("A-IM", 
+		"x-bm,gzip");
+
+	web_url("seed", 
+		"URL=https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=66", 
+		"Resource=0", 
+		"Referer=", 
+		"Snapshot=t3.inf", 
+		"Mode=HTML", 
+		EXTRARES, 
+		"Url=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb", "Referer=", ENDITEM, 
+		"Url=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb", "Referer=", ENDITEM, 
+		LAST);
 
 	lr_start_transaction("101_OpenGoogle");
 
@@ -56,7 +91,7 @@ Action()
 
 	lr_end_transaction("102_EnterWeatherClickSearch",LR_AUTO);
 
-	
+	lr_think_time(5);
 
 	return 0;
 }

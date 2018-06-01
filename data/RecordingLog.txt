@@ -1,0 +1,259 @@
+[API Trapper      (51b8:14f8)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (4eb0:4408)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (1f68:336c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (51b8:4e9c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (51b8:4e9c)] Load Network Traffic Analyzers:
+[Network Analyzer (51b8:4e9c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (51b8:4e9c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (51b8:4e9c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (51b8:4e9c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (51b8:4e9c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (51b8:4e9c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (51b8:4e9c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (51b8:4e9c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (51b8:2484)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[API Trapper      (2164:3f80)] Recording in 64-bit mode: C:\WINDOWS\system32\cmd.exe
+[API Trapper      (1bb4:4018)] Recording in 64-bit mode: C:\WINDOWS\system32\cmd.exe
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.3:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 216.58.197.74:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[API Trapper      (528c:5218)] Recording in 64-bit mode: C:\Program Files\Manufacturer\Endpoint Agent\brkrprcs64.exe
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.13:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.4:443   (Service=)  (Sid=  4)  PROXIED!
+[API Trapper      ( 9fc: e28)] Recording in 32-bit mode: C:\Program Files (x86)\UiPath\Studio\UiPath\BrowserExtension\ChromeNativeMessaging.exe
+[Network Analyzer (51b8:1830)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (51b8:1830)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:11f0)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:11f0)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:27bc)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:27bc)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:51c4)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:51c4)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (51b8:2484)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=66"   
+[Network Analyzer (51b8:2484)]   (Sid:  1) Client -> Server @ : 379 bytes (SSL)(Service=HTTP)
+[Web Request      (51b8:2484)] "GET /translate_a/l?client=chrome&hl=en&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"   
+[Network Analyzer (51b8:2484)]   (Sid:  2) Client -> Server @ : 316 bytes (SSL)(Service=HTTP)
+[Web Request      (51b8:2484)] "POST /ListAccounts?gpsia=1&source=ChromiumAccountReconcilor,counter:0,load_time_ms:3051&json=standard"   
+[Network Analyzer (51b8:2484)]   (Sid:  3) Client -> Server @ : 610 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  3) Server -> Client : 1114 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  3) Server -> Client : 56 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  2) Server -> Client : 458 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  2) Server -> Client : 887 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  2) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  1) Server -> Client : 312 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 216.58.197.67:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 216.58.197.67:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (51b8:2f4c)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:2f4c)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (51b8:2484)] "GET /safebrowsing/csd/client_model_v5_variation_0.pb"   
+[Network Analyzer (51b8:2484)]   (Sid:  5) Client -> Server @ : 277 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:4064)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:4064)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 557 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 2261 bytes (SSL) (Service=HTTP)
+[Web Request      (51b8:2484)] "GET /safebrowsing/csd/client_model_v5_ext_variation_0.pb"   
+[Network Analyzer (51b8:2484)]   (Sid:  6) Client -> Server @ : 281 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 524 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 7045 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 6554 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 2818 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 7045 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 4227 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 2818 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 5636 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 7045 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 1409 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 4588 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  5) Server -> Client : 1193 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 557 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 9306 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 9863 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 5636 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 7963 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 4227 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 7045 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 2818 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 1409 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 1409 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 2818 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 5636 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 5636 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  6) Server -> Client : 5781 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  4) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent 101_OpenGoogle [Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.4:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (51b8:4f14)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (51b8:4f14)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (51b8:2484)] "GET /"   
+[Network Analyzer (51b8:2484)]   (Sid:  7) Client -> Server @ : 387 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 550 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 33 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 389 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1281 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1289 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 730 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 170 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 1373 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 945 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid:  7) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.4:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.4:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.4:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 216.58.197.67:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (51b8:4958)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (51b8:4958)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:1224)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (51b8:1224)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8: 420)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (51b8: 420)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.3:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (51b8:2210)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:2210)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Web Request      (51b8:2484)] "GET /gb/images/i2_2ec824b0.png"   
+[Network Analyzer (51b8:2484)]   (Sid: 11) Client -> Server @ : 371 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.3:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (51b8:50d0)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:4784)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:50d0)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 512 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 897 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 4227 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 4227 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 7045 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 2818 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 1409 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 2818 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 770 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.3:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (51b8:4784)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:3854)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:3854)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.163.194:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (51b8:4084)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (51b8:4084)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (51b8:2484)] "GET /adsid/google/ui"   
+[Network Analyzer (51b8:2484)]   (Sid: 15) Client -> Server @ : 534 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (51b8:2484)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (51b8:2484)]   (Sid: 15) Server -> Client : 493 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 14) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent 101_OpenGoogle [Network Analyzer (51b8:2484)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (51b8:2484)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (51b8:2484)]   (Sid: 10) Connection Terminated (by Server)
+[API Trapper      ( 40c:4b48)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[User action                 ] StartTransactionEvent 102_EnterWeatherClickSearch [Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.35:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 216.58.197.67:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 216.58.197.67:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 216.58.197.67:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:2280)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 216.58.197.67:443   (Service=)  (Sid= 20)  PROXIED!
+[Web Request      (51b8:2484)] "GET /onebox/weather/64/fog.png"   
+[Network Analyzer (51b8:2484)]   (Sid: 11) Client -> Server @ : 371 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:2280)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 496 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 446 bytes (SSL) (Service=HTTP)
+[Web Request      (51b8:2484)] "GET /onebox/weather/48/partly_cloudy.png"   
+[Network Analyzer (51b8:2484)]   (Sid: 17) Client -> Server @ : 381 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.3:443   (Service=)  (Sid= 21)  PROXIED!
+[Web Request      (51b8:2484)] "GET /onebox/weather/48/rain_s_cloudy.png"   
+[Network Analyzer (51b8:2484)]   (Sid: 11) Client -> Server @ : 381 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 496 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 584 bytes (SSL) (Service=HTTP)
+[Web Request      (51b8:2484)] "GET /onebox/weather/48/thunderstorms.png"   
+[Network Analyzer (51b8:2484)]   (Sid: 11) Client -> Server @ : 381 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 496 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 717 bytes (SSL) (Service=HTTP)
+[Web Request      (51b8:2484)] "GET /m/images/weather/wind_unselected.svg"   
+[Network Analyzer (51b8:2484)]   (Sid: 11) Client -> Server @ : 382 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 17) Server -> Client : 496 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 561 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 17) Server -> Client : 563 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:2484)]   (Sid: 11) Server -> Client : 333 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8: b68)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (51b8: b68)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:48c0)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:48c0)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:450c)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:450c)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:3398)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:3398)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:2bc0)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Web Request      (51b8:2484)] "GET /verify/ABGYjaaWjSFouGBGZICKXfNkvF1nsiyL7BXWUucE8cxeZmJusOj5-9TgV_cvdy5Q_ZFXT65BvuXKrVVdr2wcPVYtySWjCtMBdyqE9AV89uxlNDYj9Tlg64JVyQqQ"   
+[Network Analyzer (51b8:2484)]   (Sid: 16) Client -> Server @ : 643 bytes (SSL)(Service=HTTP)
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.3:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (51b8:2bc0)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:4e9c)] Address lookup for USMUMKAMADAN3 = 10.12.190.65
+[Network Analyzer (51b8:4e9c)] Request Connection: Remote Server @ 172.217.160.3:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (51b8:3d30)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:2484)]   (Sid: 16) Server -> Client : 869 bytes (SSL) (Service=HTTP)
+[Network Analyzer (51b8:3d30)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:194c)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer (51b8:194c)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (51b8:2484)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (51b8:2484)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (51b8:2484)]   (Sid: 23) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent 102_EnterWeatherClickSearch 

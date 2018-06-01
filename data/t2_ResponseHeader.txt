@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Fri, 01 Jun 2018 08:44:02 GMT
+Expires: Fri, 01 Jun 2018 08:44:02 GMT
+Cache-Control: private, max-age=86400
+Content-Type: application/json; charset=UTF-8
+Content-Language: en
+X-Content-Type-Options: nosniff
+Content-Disposition: attachment; filename="f.txt"
+Content-Encoding: gzip
+Server: HTTP server (unknown)
+X-XSS-Protection: 1; mode=block
+Alt-Svc: quic=":443"; ma=2592000; v="43,42,41,39,35"
+Transfer-Encoding: chunked
+
